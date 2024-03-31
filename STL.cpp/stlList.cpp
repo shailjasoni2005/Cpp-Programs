@@ -6,7 +6,7 @@
 a. Well tested 
 b.Bunch of available function
 5.Few available operations
-operator = assign,front,back,empty,size,max_size,clear,insert,emplace,push_back,pop_back,push_front,pop_front,reverse,sort,merge,splice,unique,remove,remove_if,resize.
+operator =, assign,front,back,empty,size,max_size,clear,insert,emplace,push_back,pop_back,push_front,pop_front,reverse,sort,merge,splice,unique,remove,remove_if,resize.
 */
 
 #include<iostream>
