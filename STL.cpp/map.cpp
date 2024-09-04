@@ -2,7 +2,7 @@
 1.syntax:- map<T1,T2> bj; // Where T1 is key type and T2 is value Type.
 2. map is associative container that store elements in key value combination where key should be unique,
 otherwise it overrides the previous value.
-3.It is implement using self-balance binary search tree (AVL/Red Black Tree).
+3.It is implemented using self-balance binary search tree (AVL/Red Black Tree).
 4.It store key value pair in sorted order on the basis of key (Assending/decending).
 5.map is generally used in dictionary type problems.
 */
